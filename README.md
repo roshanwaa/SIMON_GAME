@@ -74,6 +74,6 @@ e.g. If the user has pressed  **red, green, red, yellow,**  the index of the las
 - Inside this function, you'll need to  **reset**  the values of  `level`,  `gamePattern`  and  `started`  variables.
 
 ## Link to Files
-- HTML file: [index.html]
-- CSS File: [styles.css]
-- JavaScript File: [game.js]
+- HTML file: [index.html](https://github.com/roshanwaa/SIMON_GAME/blob/main/index.html).
+- CSS File: [styles.css](https://github.com/roshanwaa/SIMON_GAME/blob/main/styles.css).
+- JavaScript File: [game.js](https://github.com/roshanwaa/SIMON_GAME/blob/main/game.js).
